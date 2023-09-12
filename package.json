@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@material/web": "^1.0.0-pre.17",
+    "@mui/material": "^5.14.8",
+    "@rollup/plugin-node-resolve": "^15.2.1",
+    "rollup": "^3.29.0"
+  }
+}
