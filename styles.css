@@ -17,7 +17,7 @@ body{
   --md-filled-button-container-width: 120px;
 }
 
-header{
+header, footer{
   min-width: 80%;
   background-color: rgb(26, 67, 118);
   height: 150px;
@@ -27,6 +27,16 @@ header{
   justify-content: space-between;
   padding: 0 10%;
   margin:0;
+}
+
+/* footer {
+  background-color: black;
+
+} */
+footer div {
+  max-width: 40%;
+  font-size: 1vw;
+  font-weight: 100;
 }
 label{
   display: flex;
